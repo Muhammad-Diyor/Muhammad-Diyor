@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Diyor</h1>
+![Header](./header-image.png)
 <h3 align="center">A passionate backend developer from Uzbekistan, Andijan and currently located in Tashkent</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-diyor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-diyor" /> </p>
