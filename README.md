@@ -1,6 +1,8 @@
 ![Header](./header-image.png)
+<br>
 <h3 align="center">A passionate backend developer from Uzbekistan, Andijan and currently located in Tashkent</h3>
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-diyor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-diyor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-diyor" alt="muhammad-diyor" /></a> </p>
