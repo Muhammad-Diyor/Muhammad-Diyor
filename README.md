@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **Following me on github is free, so you may.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: muhammaddiyorimomnazarov@gmail.com or t.me/muhammaddiyor_imomnazarov </h3>
 <p align="left">
 </p>
 
