@@ -5,8 +5,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-diyor&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-diyor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-diyor" alt="muhammad-diyor" /></a> </p>
-
 - 🌱 I’m currently learning **software engineering.**
 
 - 👨‍💻 All of my projects are available at [github.com/Muhammad-Diyor/](github.com/Muhammad-Diyor/)
