@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **Following me on github is free, so you may.**
 
-- 🌐 Follow me on LinkedIn: https://www.linkedin.com/in/muhammaddiyor-imomnazarov/
+- 🌐 Connect me on LinkedIn: https://www.linkedin.com/in/muhammaddiyor-imomnazarov/
 
 <p align="left">
 </p>
